@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 232 232" xmlns:xlink="http://www.w3.org/1999/xlink" enable-background="new 0 0 232 232">
+  <g>
+    <rect width="231" x="1" y="198.5" height="33"/>
+    <rect width="149" x="83" y="133.5" height="33"/>
+    <rect width="149" x="83" y="66.5" height="33"/>
+    <rect width="232" y="0.5" height="33"/>
+    <path d="M17,132.5v1H0.333l33,49l33-49H50v-1v-32v-1h16.333l-33-49l-33,49H17v1V132.5z"/>
+  </g>
+</svg>
