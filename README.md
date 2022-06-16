@@ -3,9 +3,11 @@ Thunderbird 78+ extension that improved the readbility of the message/thread lis
 
 ## Build instructions
 This extension does not have a build process as it consists of pure JavaScript and CSS. No additional tools or frameworks are used.
+Simply run the provided build/package script `build.sh`
+
 
 ## Packaging instructions
-To package the source files in a distributable file, follow these instructions:
+To manually package the source files in a distributable file, follow these instructions:
 
 *MacOS*  
 Compress the contents of the "src" directory (but not the directory itself):  
