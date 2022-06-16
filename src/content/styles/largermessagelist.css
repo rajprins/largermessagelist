@@ -7,7 +7,7 @@
 
 /* Set height for cells in folder pane */
 #folderTree >treechildren::-moz-tree-row {
-    height: 20px !important;
+    height: 22px !important;
  }
 
 
@@ -19,5 +19,5 @@
 
 /* Set height for cells in thread pane */
 #threadTree >treechildren::-moz-tree-row {
-    height: 23px !important;
+    height: 25px !important;
  }
