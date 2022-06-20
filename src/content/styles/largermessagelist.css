@@ -8,7 +8,7 @@
 /* Set height for cells in folder pane */
 #folderTree >treechildren::-moz-tree-row {
     height: 22px !important;
- }
+}
 
 
 /* Set font size in thread pane */
@@ -20,4 +20,4 @@
 /* Set height for cells in thread pane */
 #threadTree >treechildren::-moz-tree-row {
     height: 25px !important;
- }
+}
